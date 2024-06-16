@@ -6,5 +6,5 @@
 #--platform=linux/arm64 xiaoyaliu/alist
 neosmemo/memos:latest
 vaultwarden/server:latest
-gdy666/lucky:latest
-jeessy/ddns-go:latest
+gdy666/lucky:2.5.3
+jeessy/ddns-go:v5.6.6
