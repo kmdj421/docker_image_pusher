@@ -8,3 +8,4 @@ neosmemo/memos:latest
 vaultwarden/server:latest
 gdy666/lucky:2.5.3
 jeessy/ddns-go:v5.6.6
+cp0204/quark-auto-save:latest
