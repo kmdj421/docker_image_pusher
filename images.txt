@@ -5,9 +5,8 @@
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
 neosmemo/memos:latest
-vaultwarden/server:latest
 gdy666/lucky:2.5.3
 jeessy/ddns-go:latest
 cp0204/quark-auto-save:latest
 xhofe/alist:latest
-vaultwarden/server:latest
+vaultwarden/server:1.30.1
