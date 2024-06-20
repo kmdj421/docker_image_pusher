@@ -15,3 +15,4 @@ filebrowser/filebrowser:v2.23.0
 photoprism/photoprism:latest
 cnk3x/xunlei:latest
 linuxserver/plex:latest
+zishuo/embyserver:latest
