@@ -16,4 +16,7 @@ photoprism/photoprism:latest
 cnk3x/xunlei:latest
 linuxserver/plex:latest
 linuxserver/emby:latest
-tensorchord/pgvecto-rs:latest
+linuxserver/jellyfin:latest
+deluan/navidrome:latest
+linuxserver/syncthing:latest
+linuxserver/wps-office:latest
