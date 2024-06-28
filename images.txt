@@ -21,3 +21,4 @@ deluan/navidrome:latest
 linuxserver/syncthing:latest
 linuxserver/wps-office:latest
 dockurr/windows:latest
+vdsm/virtual-dsm
